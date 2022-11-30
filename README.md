@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nico Grundei</h1>
 <h3 align="center">A hobby coder from Germany</h3>
 
+<img align="right" alt="GIF" src="https://media.tenor.com/Gn8pcNq61BkAAAAC/programming-troll.gif" width="350"/>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me:</h3>
