@@ -3,6 +3,10 @@
 
 <img align="right" alt="GIF" src="https://media.tenor.com/Gn8pcNq61BkAAAAC/programming-troll.gif" width="350"/>
 
+- 🎓 &nbsp; I'm currently at high school.
+- 🤔 &nbsp; I plan on working as a software engineer after school.
+- ❤️ &nbsp; Coding, Building Linux Systems (LFS), Playing drums.
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">🛠 Languages and Tools:</h3>
