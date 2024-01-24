@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nico Grundei</h1>
+<h1 align="center">Hi, I'm Nico Grundei</h1>
 <h3 align="center">A hobby coder from Germany</h3>
-
-<img align="right" alt="GIF" src="https://media.tenor.com/Gn8pcNq61BkAAAAC/programming-troll.gif" width="350"/>
-
-- 🎓 &nbsp; I'm currently at high school.
-- 🤔 &nbsp; I plan on working as a software engineer after school.
-- ❤️ &nbsp; Coding, Building Linux Systems (LFS), Playing drums.
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 - Arch/Gentoo GNU Linux, MacOS
 <br />
